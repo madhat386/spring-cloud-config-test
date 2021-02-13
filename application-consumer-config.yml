@@ -1,5 +1,6 @@
 # 新增配置
 prefix: China
+suffix: one
 
 # 配置dev环境
 server:
