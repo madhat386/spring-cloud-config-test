@@ -1,6 +1,6 @@
 # 新增配置
 prefix: China
-suffix: one
+suffix: iamsuffix
 
 # 配置dev环境
 server:
